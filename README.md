@@ -1,9 +1,16 @@
-# 🥒 Pickle Samurai Token (PICKLE) Assets
+# Pickle Samurai Token (PICKLE)
 
-Welcome to the official asset repository for **Pickle Samurai Token (PICKLE)**, a community-driven meme token on the **BNB Smart Chain**.
+Pickle Samurai is a community-driven meme token on Binance Smart Chain (BEP-20).  
+- **Contract Address:** 0x1F98Af450fb47DE02BB94cC52684183bd2FD736F
+- **Symbol:** PICKLE  
+- **Decimals:** 18  
 
-This repository contains the official logo and metadata files required for token integrations across block explorers, wallets, and market trackers.
+## Features
+- Fair launch with liquidity on PancakeSwap.
+- Meme + community growth strategy.
+- Transparent and open-source contract.
 
----
-
-## 📂 Repository Structure
+## Links
+- Website: https://picklesamurai.com
+- Twitter: https://twitter.com/picklesamurai](https://x.com/picklesamuraitoken)
+- TikTok: https://www.tiktok.com/@picklesamuraitoken
