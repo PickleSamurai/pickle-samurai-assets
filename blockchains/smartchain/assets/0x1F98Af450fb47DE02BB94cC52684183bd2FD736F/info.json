@@ -1,0 +1,20 @@
+
+- **logo.png** → Token logo (256x256, transparent background).  
+- **info.json** → Token metadata (name, symbol, decimals, explorer, website, socials).  
+
+Additionally:
+- `pickle_samurai_logo_32x32.svg` → Optimized SVG logo (for BscScan submission).
+
+---
+
+## 🔗 Official Links
+
+- **Website:** [https://sanec-crafts.com/pickle-samurai](https://sanec-crafts.com/pickle-samurai)  
+- **Explorer:** [BscScan Token Page](https://bscscan.com/token/0x1F98Af450fb47DE02BB94cC52684183bd2FD736F)  
+- **TikTok:** [@picklesamuraitoken](https://www.tiktok.com/@picklesamuraitoken)  
+
+---
+
+## 📜 License
+
+This repository is licensed under the **MIT License**. All branding assets (logo, name, and design) are the intellectual property of the Pickle Samurai Token project.
