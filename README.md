@@ -12,5 +12,5 @@ Pickle Samurai is a community-driven meme token on Binance Smart Chain (BEP-20).
 
 ## Links
 - Website: https://picklesamurai.com
-- Twitter: https://twitter.com/picklesamurai](https://x.com/picklesamuraitoken)
+- Twitter: https://x.com/picklesamuraitoken
 - TikTok: https://www.tiktok.com/@picklesamuraitoken
