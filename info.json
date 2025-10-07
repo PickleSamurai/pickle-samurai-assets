@@ -1,0 +1,25 @@
+{
+  "name": "Pickle Samurai",
+  "symbol": "PICKLE",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Pickle Samurai is a meme-inspired trading token on the BNB Smart Chain focused on secure trading, liquidity lock, and community-driven growth.",
+  "website": "https://picklesamurai.com",
+  "explorer": "https://bscscan.com/token/0x1F98Af450fb47DE02BB94cC52684183bd2FD736F",
+  "status": "active",
+  "id": "0x1F98Af450fb47DE02BB94cC52684183bd2FD736F",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PickleSamurai"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PickleSamuraiOfficial"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@picklesamuraitoken"
+    }
+  ]
+}
